@@ -20,7 +20,7 @@
         }
         static void Main(string[] args)
         {
-            Mayor(5,5);
+            Mayor(6,6);
         }
     }
 }
